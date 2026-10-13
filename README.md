@@ -1,5 +1,7 @@
  <div align="center">
 
+ ![Header Banner](./Portada%20-%20LinkedIn.jpg)
+
 # ¡Hola, soy Matías Chocobar! 👋
 
 ### Desarrollador Full Stack · Córdoba, Argentina 🇦🇷
